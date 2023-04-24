@@ -24,3 +24,15 @@ Please, also note that all demos assume the following imports (to run them, you 
 
 .. toctree::
   :maxdepth: 4
+
+  act_one
+  act_two
+  als
+  cross
+  data
+  maxvol
+  sample
+  svd
+  tensors
+  transformation
+  vis
