@@ -9,7 +9,7 @@ Installation instructions are provided in the repository `teneva_jax <https://gi
 
 -----
 
-Current version "0.1.0".
+Current version "0.1.1".
 
 -----
 
