@@ -12,7 +12,7 @@ This python package, named **teneva_jax** (**ten**sor **eva**luation with **jax*
 
 > Current version "0.1.1".
 
-The package can be installed via pip: `pip install teneva` (it requires the [Python](https://www.python.org) programming language of the version >= 3.8). It can be also downloaded from the repository [teneva_jax](https://github.com/AndreiChertkov/teneva_jax) and installed by `python setup.py install` command from the root folder of the project.
+The package can be installed via pip: `pip install teneva_jax` (it requires the [Python](https://www.python.org) programming language of the version >= 3.8). It can be also downloaded from the repository [teneva_jax](https://github.com/AndreiChertkov/teneva_jax) and installed by `python setup.py install` command from the root folder of the project.
 
 > Required python package ["jax[cpu]"](https://github.com/google/jax) (0.4.6+) will be automatically installed during the installation of the main software product. However, it is recommended that you manually install it first.
 
